@@ -84,7 +84,7 @@
             superheroClicked = $(this).data("name");
             console.log("clicked " + superheroClicked)
 
-            var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + superheroClicked + "&api_key=HsaPjQhCHGCJbUnT7LkmZc86rv5oCpxg&limit=10"
+            var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + superheroClicked + "&api_key=HsaPjQhCHGCJbUnT7LkmZc86rv5oCpxg&limit=10"
 
             $.ajax({
                 url: queryURL,
