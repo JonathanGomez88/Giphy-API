@@ -1,0 +1,53 @@
+#wrapper {
+    
+    padding: 20px;
+    margin: 20px,20px,20px,20px
+}
+
+
+.superhero {
+    margin-left: 20px;
+    margin-top: 20px;
+    background: black;
+    color: white;
+}
+
+#top {
+    background-image: url("buttonBackground.jpeg");
+    margin-left: -20px;
+    margin-right:-20px;
+    
+    }
+
+img {
+    margin-left: 5px;
+    margin-top: 15px;
+    height: 200px;
+    width: 200px;
+    
+}
+
+#superhero-form {
+    background: black;
+    color: white;
+    margin-left: 20px;
+     
+    
+}
+
+#add-superhero {
+    background-color: black;
+    color: white
+}
+
+.ratings {
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: -8px
+    
+}
+
+.imgDiv {
+    float:left;
+    margin-left: 10px;
+}
